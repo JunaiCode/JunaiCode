@@ -12,8 +12,7 @@
  </div>
  
  ### Spotify Playing 🎧
-[<img src="https://spotify-junaicode.vercel.app/api/spotify-playing" alt="JunaiCode Spotify"/>]
-
+ ![Spotify](https://spotify-app-five-mauve.vercel.app/api/spotify)
  <br><br><br>
  ---
 ### 📈 Github Stats
