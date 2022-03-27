@@ -9,7 +9,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 - ⚡ Fun fact: I love to play pool and snooker 🎱.<br><br>
    <h3>Spotify Playing 🎧</h3>
-   <img src="https://spotify-app-five-mauve.vercel.app/api/spotify" align="left" />
+   <img src="https://spotify-app-five-mauve.vercel.app/api/spotify" align="left" /><br>
   </div>
  </div>
  
