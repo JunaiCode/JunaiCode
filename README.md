@@ -1,6 +1,6 @@
 
 <div>
-  <img align="right" alt="JunaiCode" src="https://user-images.githubusercontent.com/61095765/160287971-c2341ef6-4772-4fa4-9473-ea0b2f049deb.jpg" width=300px height=300px />
+  <img align="right" alt="JunaiCode" src="https://c.tenor.com/QapXonXvErQAAAAC/party-dance.gif" width=300px height=480px />
  <h3>Hi JunaiCode here 👋</h3>
  <h3>I'm a Software Engineer student at ICESI University</h3>
  <div align="left">
