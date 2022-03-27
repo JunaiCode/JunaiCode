@@ -5,10 +5,10 @@
  <h3>I'm a Software Engineer student at ICESI University</h3>
  <div align="left">
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅<br>
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
-- ⚡ Fun fact: I love to play pool and snooker 🎱.<br>
-   - 📫 Email me at <a href="mailto:juanpalta24@hotmail.com" target="blank">Juanpalta24@hotmail.com</a>.<br>
+- 📚 I’m currently learning everything about Frontend and Backend technologies also videogames creation 😅<br>
+- 💪🏼 Future Goals: Learn more technologies<br>
+- ⚡ Fun fact: I love dance.<br>
+- 📫 Email me at <a href="mailto:juanpalta24@hotmail.com" target="blank">Juanpalta24@hotmail.com</a>.<br>
    <h3>Spotify Playing 🎧</h3>
    <img src="https://spotify-app-five-mauve.vercel.app/api/spotify" align="left" /><br>
   </div>
