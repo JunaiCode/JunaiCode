@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>
 - 📚 I’m currently learning everything about Frontend and Backend technologies also videogames creation 😅<br>
 - 💪🏼 Future Goals: Learn more technologies<br>
-- ⚡ Fun fact: I love dance.<br>
+- 🕺 Fun fact: I love dance.<br>
 - 📫 Email me at <a href="mailto:juanpalta24@hotmail.com" target="blank">Juanpalta24@hotmail.com</a>.<br>
    <h3>Spotify Playing 🎧</h3>
    <img src="https://spotify-app-five-mauve.vercel.app/api/spotify" align="left" /><br>
@@ -26,7 +26,7 @@
 </a> <br><br>
 </div>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">🌍Connect with me</h2>
 <p align="center">
 <a href="https://github.com/JunaiCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="__verkat__" height="30" width="40" /></a>
 <a href="https://twitter.com/junaigrox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaigrox" height="30" width="40" /></a>
