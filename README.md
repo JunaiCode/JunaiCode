@@ -26,7 +26,7 @@
 </a> <br><br>
 </div>
 
-<h2 align="left">🌍Connect with me</h2>
+<h2 align="left">🌍Connect With Me</h2>
 <p align="center">
 <a href="https://github.com/JunaiCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="__verkat__" height="30" width="40" /></a>
 <a href="https://twitter.com/junaigrox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaigrox" height="30" width="40" /></a>
