@@ -8,12 +8,10 @@
 - 💪🏼 Future Goals: Learn more technologies<br>
 - 🕺 Fun fact: I love dance.<br>
 - 📫 Email me at <a href="mailto:juanpalta24@hotmail.com" target="blank">Juanpalta24@hotmail.com</a>.<br>
-   <h3>Spotify Playing 🎧</h3>
-   <img src="https://spotify-app-five-mauve.vercel.app/api/spotify" align="left" /><br>
   </div>
  </div>
  
- <br><br><br><br><br>
+
  
  <h2>📈 My Github Stats</h2>
  <div align="center">
