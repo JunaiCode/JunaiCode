@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>
 - 📚 I’m currently learning everything about Frontend and Backend technologies also videogames creation 😅<br>
 - 💪🏼 Future Goals: Learn more technologies<br>
-- 🕺 Fun fact: I love dance.<br>
+- 🕺 I love dance (Locking, Popping, Hip-hop).<br>
 - 📫 Email me at <a href="mailto:juanpalta24@hotmail.com" target="blank">Juanpalta24@hotmail.com</a>.<br>
   </div>
  </div>
